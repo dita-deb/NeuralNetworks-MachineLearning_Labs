@@ -1,9 +1,6 @@
-numpy
-
-opencv-python
-
-scikit-learn
-
-sense-hat
-
-Keras-Preprocessing
+Must have the following software installed:
+- numpy
+- opencv-python
+- scikit-learn
+- sense-hat
+- Keras-Preprocessing
